@@ -1,4 +1,4 @@
-<p align="center" width="100%"><img src="https://github.com/Frank-Dex-Devs/.github/blob/main/profile/newest.png" /></p>
+<p align="center" width="100%"><img src="https://github.com/Frank-Dex-Devs/.github/blob/main/profile/newest.png"
 
 ## Hi there 👋 :kenya: :red_circle::orange_circle::green_circle:
 
